@@ -177,4 +177,4 @@ This repository serves as the official landing page for EVE Vanguard. The softwa
 **Get the most recent version of EVE Vanguard today!**
 
 ---
-**Last updated:** 2026-11-13 05:35:08 UTC
+**Last updated:** 2026-11-13 14:06:33 UTC
